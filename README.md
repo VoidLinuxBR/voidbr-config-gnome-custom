@@ -1,3 +1,3 @@
-# voidbr-pkgfile-template
+# voidbr-config-gnome-custom
 
-Template for VoidBR pkgmake/pkgfile packages
+Skel config for Void Linux GNOME Meta Package
